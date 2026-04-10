@@ -20,7 +20,7 @@ ai_teacher_persona = "You are an ai_teacher, assistant to Ruthran Raghavan, Chie
 llm = ChatGroq(
     model="openai/gpt-oss-120b", 
     temperature=0.7, 
-    groq_api_key=GROQ_API_KEY
+    api_key=GROQ_API_KEY
 )
 
 # Create the Chat Prompt Template
