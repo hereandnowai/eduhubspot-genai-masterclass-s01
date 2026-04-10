@@ -18,4 +18,4 @@ In this module, we built a modern AI assistant using **LangChain** and **Groq** 
 Check out `chatbot.py` in this directory for the source code.
 
 ---
-Built with ❤️ by **HERE AND NOW AI** for **EduHubSpot** learners.
+Built with ❤️ by **Ruthran Raghavan, Chief AI Scientist** for **EduHubSpot** learners.

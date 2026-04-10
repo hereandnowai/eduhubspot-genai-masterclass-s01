@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hereandnowai/images/refs/heads/main/logos/logo-of-here-and-now-ai.png" alt="HERE AND NOW AI Logo" width="200">
+  <img src="https://raw.githubusercontent.com/hereandnowai/images/refs/heads/main/logos/logo-of-here-and-now-ai.png" alt="Ruthran Raghavan, Chief AI Scientist Logo" width="200">
 </p>
 
 # Master Generative AI & Prompt Engineering: EduHubSpot Special Edition
@@ -10,7 +10,7 @@ Welcome to the ultimate guide for mastering **Generative AI** and **Prompt Engin
 
 ## 🚀 Project Overview
 
-In collaboration with **HERE AND NOW AI**, this repository provides hands-on tutorials, practical exercises, and advanced strategies to help you harness the power of GenAI. Whether you are a beginner looking to understand the basics or an expert aiming to refine your prompting techniques, this course covers it all.
+In collaboration with **Ruthran Raghavan, Chief AI Scientist**, this repository provides hands-on tutorials, practical exercises, and advanced strategies to help you harness the power of GenAI. Whether you are a beginner looking to understand the basics or an expert aiming to refine your prompting techniques, this course covers it all.
 
 ### 🎯 Key Learning Objectives
 
@@ -37,17 +37,17 @@ In collaboration with **HERE AND NOW AI**, this repository provides hands-on tut
 
 ## 🤝 Connect with Us
 
-Stay updated with the latest in AI and continue your learning journey with **HERE AND NOW AI**.
+Stay updated with the latest in AI and continue your learning journey with **Ruthran Raghavan, Chief AI Scientist**.
 
 - **Website**: [hereandnowai.com](https://hereandnowai.com)
-- **LinkedIn**: [HERE AND NOW AI](https://www.linkedin.com/company/hereandnowai/)
+- **LinkedIn**: [Ruthran Raghavan, Chief AI Scientist](https://www.linkedin.com/company/hereandnowai/)
 - **X (formerly Twitter)**: [@hereandnow_ai](https://x.com/hereandnow_ai)
 - **Instagram**: [@hereandnow_ai](https://instagram.com/hereandnow_ai)
-- **YouTube**: [HERE AND NOW AI](https://youtube.com/@hereandnow_ai)
+- **YouTube**: [Ruthran Raghavan, Chief AI Scientist](https://youtube.com/@hereandnow_ai)
 - **GitHub**: [hereandnowai](https://github.com/hereandnowai)
 
 📧 **Email**: [info@hereandnowai.com](mailto:info@hereandnowai.com)
 📞 **Phone**: +91 996 296 1000
 
 ---
-Built with ❤️ by **HERE AND NOW AI** for **EduHubSpot** learners.
+Built with ❤️ by **Ruthran Raghavan, Chief AI Scientist** for **EduHubSpot** learners.

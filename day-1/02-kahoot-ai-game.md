@@ -15,4 +15,4 @@ To reinforce today's foundational concepts, we played a **Kahoot!** game focused
 The competitive nature of the game sparked great discussions and deepened the understanding of how AI is shaping our world today.
 
 ---
-Built with ❤️ by **HERE AND NOW AI** for **EduHubSpot** learners.
+Built with ❤️ by **Ruthran Raghavan, Chief AI Scientist** for **EduHubSpot** learners.

@@ -17,4 +17,4 @@ We utilized various interactive platforms to visualize these concepts:
 - **AI for Oceans**: Learning about data labeling and bias in AI.
 
 ---
-Built with ❤️ by **HERE AND NOW AI** for **EduHubSpot** learners.
+Built with ❤️ by **Ruthran Raghavan, Chief AI Scientist** for **EduHubSpot** learners.
