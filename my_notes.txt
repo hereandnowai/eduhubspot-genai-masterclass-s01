@@ -1,0 +1,4 @@
+Project: EduHubSpot Python Masterclass.
+Lead Instructor: Ruthran Raghavan.
+Key Goal: Teaching GenAI for real-world impact.
+Current Session: Introduction to RAG (Text).
